@@ -1,12 +1,6 @@
-<h1 align="center">👩🏻‍💻✨ LexiosDev ✨🚀
+<h1 align="center">👩🏻‍💻 Lexios 🚀
 <br></br>
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&pause=900&color=6e7781&center=true&width=800&lines=Fullstack+Developer;Indie+hacker;Code.+Ship.+Repeat.;Building+in+public;Coding+the+future"/>
-
-### 🖼️ Desenvolvedor Full-stack
-
-Sou um desenvolvedor full-stack com foco em construir aplicações modernas, eficientes e escaláveis, utilizando as melhores práticas do ecossistema web atual. Busco constantemente evoluir em tecnologias front-end e back-end, com o objetivo de criar produtos robustos e impactantes — seja contribuindo em times de tecnologia ou liderando iniciativas próprias.
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
